@@ -1,7 +1,7 @@
 # Payment-Details
 Es ist eine Payment Form die mit dem Bootstrap Framework entwickelt wurde.
 
-# Erklärung wie man das Projet zum laufen bringt:
+# Erklärung wie man das Projket zum laufen bringt:
 1. Visual Studio Code das Plugin Live Server von Ritwick Dey installieren
    ![image](https://github.com/KhaledNessar/Payment-Details/assets/141129198/b977e360-4d5c-487e-85a0-673eee6ef529)
 2. Dann auf die Datei index.html klicken, dann rechts klick darauf und Open with Live Server, die Webseite müsste sich jetzt in einem Browser Tab öffnen
